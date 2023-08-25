@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		655B11732A9966860034FF1C /* ReadMe.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ReadMe.md; sourceTree = "<group>"; };
 		65ACD75D2A97B42A00D967E5 /* futcardeditor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = futcardeditor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65ACD7602A97B42A00D967E5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65ACD7622A97B42A00D967E5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		65ACD7542A97B42A00D967E5 = {
 			isa = PBXGroup;
 			children = (
+				655B11732A9966860034FF1C /* ReadMe.md */,
 				65ACD75F2A97B42A00D967E5 /* futcardeditor */,
 				65ACD75E2A97B42A00D967E5 /* Products */,
 			);
